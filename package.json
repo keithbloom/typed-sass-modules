@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "node-sass": "4.5.2",
+    "node-sass": "4.5.3",
     "typed-css-modules": "0.1.10"
   }
 }
